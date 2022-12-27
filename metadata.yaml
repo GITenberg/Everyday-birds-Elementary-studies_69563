@@ -1,0 +1,42 @@
+_repo: Everyday-birds-Elementary-studies_69563
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Audubon, John James
+    aliases:
+    - Audubon, Jean Jacques Fougère
+    - Rabin, Jean
+    - Audubon, Jean Jacques Fougere
+    birthdate: 1785
+    deathdate: 1851
+    gutenberg_agent_id: '41878'
+    url: http://www.gutenberg.org/2009/agents/41878
+    wikipedia: https://en.wikipedia.org/wiki/John_James_Audubon
+creator:
+  author:
+    agent_name: Torrey, Bradford
+    birthdate: 1843
+    deathdate: 1912
+    gutenberg_agent_id: '3667'
+    url: http://www.gutenberg.org/2009/agents/3667
+    wikipedia: https://en.wikipedia.org/wiki/Bradford_Torrey
+description: ''
+gutenberg_issued: '2022-12-17'
+identifiers:
+  gutenberg: '69563'
+language: en
+pgterms:marc904: https://archive.org/details/everydaybirdsele00torr
+pgterms:marc905: 20210501014606torrey
+pgterms:marc906: '1901'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: Houghton, Mifflin and Company,1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Everyday birds: Elementary studies'
+url: http://www.gutenberg.org/ebooks/69563
